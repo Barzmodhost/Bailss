@@ -1,13 +1,13 @@
 # WhatsApp Baileys
-© Copyright Ranstech Crasher
+© Copyright Tr4shCore
 
 <p align="center">
-  <img src="https://files.catbox.moe/frftf7.jpg" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/12ulek.jpg" alt="Thumbnail" />
 </p>
 
-## Tentang Ranstech
+## Tentang Tr4shCore
 
-Selamat datang di repositori **Ranstech**! Ini adalah jantung visual dari ekosistem Ranstech Project—tempat di mana **desain intuitif dan pengembangan cepat bertemu**. Kami menghadirkan koleksi lengkap aset antarmuka pengguna (UI) yang dirancang dengan presisi untuk mempercepat pengembangan aplikasi Anda.
+Selamat datang di repositori **Barzmodhost**! Ini adalah jantung visual dari ekosistem Ranstech Project—tempat di mana **desain intuitif dan pengembangan cepat bertemu**. Kami menghadirkan koleksi lengkap aset antarmuka pengguna (UI) yang dirancang dengan presisi untuk mempercepat pengembangan aplikasi Anda.
 
 Fokus kami adalah pada **estetika, fungsionalitas, dan pengalaman pengguna** yang mulus. Anda akan menemukan _boilerplate_ halaman, gaya CSS yang konsisten, fungsi JavaScript esensial, dan aset gambar yang terkurasi, semuanya siap untuk diintegrasikan ke dalam proyek web Anda.
 
